@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "version": "0.1.0",
+  "tag": "v0.1.0",
+  "published_at": "2026-11-17T00:49:47+08:00",
+  "repository": "architect9331/MaaNikki-data",
+  "stats": {
+    "wardrobe_version": "2026-11-16",
+    "blessing_version": "2026-10-15",
+    "resonance_updated_at": "2026-11-16",
+    "clothes_groups": 4007,
+    "game_items": 8640,
+    "suits": 322,
+    "pinnacle_matches": 212,
+    "resonance_banners": 82,
+    "resonance_outfits": 324,
+    "resonance_items": 8553,
+    "blessing_sets": 40,
+    "crafting_sketches": 844,
+    "item_sources": 3886
+  },
+  "bundles": {
+    "catalog": {
+      "tag": "v0.1.0",
+      "asset": "MaaNikki-data-v0.1.0-catalog.zip",
+      "size": 1246413,
+      "sha256": "461e632bc2cd5f06c21b501abd46c452d6ca6c25e69c820c743b5adb48cd6f19",
+      "files": {
+        "resource/data/blessing_catalog.json": {
+          "size": 11293,
+          "sha256": "60246a6472e9b1c17ac03e0ba0a88d4c476d80d6de0a5763d75b703224df97d3"
+        },
+        "resource/data/crafting_catalog.json": {
+          "size": 208488,
+          "sha256": "9ef5b5ed1a910d3203432936eec6f8f890bb49d92d5ffc1b9fefc9a547bf10e5"
+        },
+        "resource/data/item_sources.json": {
+          "size": 175310,
+          "sha256": "a8284ce15b2e7e1ea53542968bbe3bc7837c91b87fb059f48a0936c58784168f"
+        },
+        "resource/data/resonance_catalog.json": {
+          "size": 873747,
+          "sha256": "3aed46c88008a52ef77f231e3a67e0993fd2d1d72683645600c228f17799f0e7"
+        },
+        "resource/data/wardrobe_scoring.json": {
+          "size": 2480311,
+          "sha256": "e7b5e58b2206e378e8314f09889a8e92e2c8ea30d5c9317e97f8666fc60d7f9d"
+        },
+        "resource/data/xinghai_rotation.json": {
+          "size": 3998,
+          "sha256": "4f5058b224959d0aa89ce51ad25ab114b3f677da2ca71ded99c9f7a1e7a0992d"
+        },
+        "resource/model/backpack/catalog.json": {
+          "size": 318623,
+          "sha256": "be4177ca6d77b3b258a73d21afc591f11a3806e1ed195b46c4f172ef03883a24"
+        },
+        "resource/model/blessing_badge.json": {
+          "size": 2638,
+          "sha256": "47630e174279195e24f977d73f1cd327916018bdca89bb8c2c88a7a1455c0085"
+        },
+        "resource/model/blessing_identity.json": {
+          "size": 66639,
+          "sha256": "45a2c233d8bc9b40734890fb7f836ed266b2f803f04979741879058c4fd3e390"
+        },
+        "resource/model/blessing_level.json": {
+          "size": 448,
+          "sha256": "9b2d178e3404839aa8308885c6b25f64cbc4a25eb861ca00c7cd0c09eb74d03c"
+        },
+        "resource/model/rejuvenate/categories.json": {
+          "size": 3014,
+          "sha256": "dd6bfd56a95b89cdd6da2b0afe03b18855f078929ec2c1b67d1e7928aa3ef946"
+        },
+        "resource/model/rejuvenate/icons.npz": {
+          "size": 52334,
+          "sha256": "2b864d258581c13bb7cdbf9de5de1b1a33bf945daada26aaee8d64f1eb05c328"
+        },
+        "resource/model/wardrobe/coverage.json": {
+          "size": 4096,
+          "sha256": "4b211d6934b1fdb3e3a08d6d73b406e19c20ae0a1c5850e6ef5c45593a907e67"
+        },
+        "resource/model/wardrobe/labels.json": {
+          "size": 762682,
+          "sha256": "e43769c162a059c8821a2ab4f5b7fb00c569c6291ffc3b299cd8735ffc78637c"
+        },
+        "resource/model/wardrobe/model-contract.json": {
+          "size": 727,
+          "sha256": "7e0e0c70c6a1441ba60132d306af39b67bc812f407c15a465d68752aa116beb4"
+        },
+        "resource/model/wardrobe/parts.json": {
+          "size": 2644,
+          "sha256": "b5e03448a955a799d791ba1a703ec830132a407aa2f8ddd67954e33674bc28a2"
+        },
+        "resource/navigation/materials_catalog_v1.json": {
+          "size": 1271942,
+          "sha256": "f2a909188ad3c1bcd21a68397d0aa5b5b288a8cbca0cc5286cf461e2c1f53ea0"
+        }
+      }
+    },
+    "models": {
+      "tag": "v0.1.0",
+      "asset": "MaaNikki-data-v0.1.0-models.zip",
+      "size": 11642413,
+      "sha256": "ffe7394a805f674d303c1cee3942b54bcb510136f449c35324c28bcb632dbc35",
+      "files": {
+        "resource/model/backpack/icons.npz": {
+          "size": 6329014,
+          "sha256": "06066c1249ef8612fdf97d843a0424238f3e37de70c6d7890bea17da9510e2b4"
+        },
+        "resource/model/blessing_badge.npz": {
+          "size": 87586,
+          "sha256": "6d375b3f47f42261bfeaa13a05a7f92dda1707d374f58b9fef9161baeb26bf3d"
+        },
+        "resource/model/blessing_badge.onnx": {
+          "size": 108330,
+          "sha256": "08abcaa5689e43ff8527dd30dcfe8d3709f68272e519d63f952dadeabdbce049"
+        },
+        "resource/model/blessing_identity.onnx": {
+          "size": 5123998,
+          "sha256": "65cfc33f73b5fa056a6447f000185676f0cec3a5643f11cc412fb540aac04e4e"
+        },
+        "resource/model/blessing_level.onnx": {
+          "size": 451522,
+          "sha256": "b215cad5dbc0967fe7a96985de25f941f8e2c9ff46452a8569c1f24922f1bdc2"
+        }
+      }
+    }
+  }
+}
