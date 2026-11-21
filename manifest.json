@@ -1,50 +1,54 @@
 {
   "schema_version": 1,
-  "version": "0.1.0",
-  "tag": "v0.1.0",
-  "published_at": "2026-11-17T00:49:47+08:00",
+  "version": "0.1.1",
+  "tag": "v0.1.1",
+  "published_at": "2026-11-21T21:31:17+08:00",
   "repository": "architect9331/MaaNikki-data",
   "stats": {
     "wardrobe_version": "2026-11-16",
     "blessing_version": "2026-10-15",
     "resonance_updated_at": "2026-11-16",
-    "clothes_groups": 4007,
-    "game_items": 8640,
-    "suits": 322,
+    "clothes_groups": 4016,
+    "game_items": 8649,
+    "suits": 323,
     "pinnacle_matches": 212,
     "resonance_banners": 82,
     "resonance_outfits": 324,
     "resonance_items": 8553,
     "blessing_sets": 40,
     "crafting_sketches": 844,
-    "item_sources": 3886
+    "item_sources": 3895
   },
   "bundles": {
     "catalog": {
-      "tag": "v0.1.0",
-      "asset": "MaaNikki-data-v0.1.0-catalog.zip",
-      "size": 1246413,
-      "sha256": "461e632bc2cd5f06c21b501abd46c452d6ca6c25e69c820c743b5adb48cd6f19",
+      "tag": "v0.1.1",
+      "asset": "MaaNikki-data-v0.1.1-catalog.zip",
+      "size": 1247741,
+      "sha256": "628fe00b679087d0f80e82f3d1f55d578d257ec23112db632e675ca00cf798b9",
       "files": {
         "resource/data/blessing_catalog.json": {
-          "size": 11293,
-          "sha256": "60246a6472e9b1c17ac03e0ba0a88d4c476d80d6de0a5763d75b703224df97d3"
+          "size": 11329,
+          "sha256": "a4da0a64958837f92a618f8d8a0b2281d5df6fb5e9f10cbe20b489af5a482258"
         },
         "resource/data/crafting_catalog.json": {
           "size": 208488,
           "sha256": "9ef5b5ed1a910d3203432936eec6f8f890bb49d92d5ffc1b9fefc9a547bf10e5"
         },
         "resource/data/item_sources.json": {
-          "size": 175310,
-          "sha256": "a8284ce15b2e7e1ea53542968bbe3bc7837c91b87fb059f48a0936c58784168f"
+          "size": 175730,
+          "sha256": "134a32d5766487db97cef2edd780fc70f3e5fbe6c5983424974bda5576e00124"
+        },
+        "resource/data/redeem_codes.json": {
+          "size": 537,
+          "sha256": "501eaf2d500f03f18a7cd35ddf0bd16cb92ed5a9bf65f4ade95f8e168488adab"
         },
         "resource/data/resonance_catalog.json": {
           "size": 873747,
           "sha256": "3aed46c88008a52ef77f231e3a67e0993fd2d1d72683645600c228f17799f0e7"
         },
         "resource/data/wardrobe_scoring.json": {
-          "size": 2480311,
-          "sha256": "e7b5e58b2206e378e8314f09889a8e92e2c8ea30d5c9317e97f8666fc60d7f9d"
+          "size": 2483756,
+          "sha256": "3f7f9e7bce48e9608b7a65b3aee344fe4d8f5b71c0dce41bbeaf27cf9f8968c8"
         },
         "resource/data/xinghai_rotation.json": {
           "size": 3998,
