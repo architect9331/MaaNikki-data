@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "0.1.1",
-  "tag": "v0.1.1",
-  "published_at": "2026-11-21T21:31:17+08:00",
+  "version": "0.1.2",
+  "tag": "v0.1.2",
+  "published_at": "2026-11-22T22:46:14+08:00",
   "repository": "architect9331/MaaNikki-data",
   "stats": {
     "wardrobe_version": "2026-11-16",
@@ -17,14 +17,15 @@
     "resonance_items": 8553,
     "blessing_sets": 40,
     "crafting_sketches": 844,
-    "item_sources": 3895
+    "item_sources": 3895,
+    "suit_thumbs": 323
   },
   "bundles": {
     "catalog": {
-      "tag": "v0.1.1",
-      "asset": "MaaNikki-data-v0.1.1-catalog.zip",
-      "size": 1247741,
-      "sha256": "628fe00b679087d0f80e82f3d1f55d578d257ec23112db632e675ca00cf798b9",
+      "tag": "v0.1.2",
+      "asset": "MaaNikki-data-v0.1.2-catalog.zip",
+      "size": 1251173,
+      "sha256": "72282dc57cf0a6c53fa227b7124aa1a5174f6d46a2f75527c9ab284d9140c214",
       "files": {
         "resource/data/blessing_catalog.json": {
           "size": 11329,
@@ -47,8 +48,8 @@
           "sha256": "3aed46c88008a52ef77f231e3a67e0993fd2d1d72683645600c228f17799f0e7"
         },
         "resource/data/wardrobe_scoring.json": {
-          "size": 2483756,
-          "sha256": "3f7f9e7bce48e9608b7a65b3aee344fe4d8f5b71c0dce41bbeaf27cf9f8968c8"
+          "size": 2509212,
+          "sha256": "aff21922ea9b1c193cbdd42d557c70e30095bb34d09584269b7686dcf3626e23"
         },
         "resource/data/xinghai_rotation.json": {
           "size": 3998,
@@ -127,6 +128,14 @@
           "sha256": "b215cad5dbc0967fe7a96985de25f941f8e2c9ff46452a8569c1f24922f1bdc2"
         }
       }
+    },
+    "suit_thumbs": {
+      "tag": "v0.1.2",
+      "asset": "MaaNikki-data-v0.1.2-suit-thumbs.zip",
+      "size": 5534514,
+      "sha256": "a478e1b697e36ceb3807033e9a88fdc342be01d917d6f9388ed7fe331c0c80e8",
+      "count": 323,
+      "files": {}
     }
   }
 }
