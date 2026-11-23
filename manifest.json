@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "0.1.2",
-  "tag": "v0.1.2",
-  "published_at": "2026-11-22T22:46:14+08:00",
+  "version": "0.1.3",
+  "tag": "v0.1.3",
+  "published_at": "2026-11-23T15:00:22+08:00",
   "repository": "architect9331/MaaNikki-data",
   "stats": {
     "wardrobe_version": "2026-11-16",
@@ -11,6 +11,7 @@
     "clothes_groups": 4016,
     "game_items": 8649,
     "suits": 323,
+    "suit_variants": 483,
     "pinnacle_matches": 212,
     "resonance_banners": 82,
     "resonance_outfits": 324,
@@ -18,14 +19,14 @@
     "blessing_sets": 40,
     "crafting_sketches": 844,
     "item_sources": 3895,
-    "suit_thumbs": 323
+    "suit_thumbs": 806
   },
   "bundles": {
     "catalog": {
-      "tag": "v0.1.2",
-      "asset": "MaaNikki-data-v0.1.2-catalog.zip",
-      "size": 1251173,
-      "sha256": "72282dc57cf0a6c53fa227b7124aa1a5174f6d46a2f75527c9ab284d9140c214",
+      "tag": "v0.1.3",
+      "asset": "MaaNikki-data-v0.1.3-catalog.zip",
+      "size": 1273631,
+      "sha256": "c6a8088bd0ede4f13102b147c25f1689b3e5fc7c4e7d23d80177721e3c1fbf44",
       "files": {
         "resource/data/blessing_catalog.json": {
           "size": 11329,
@@ -48,8 +49,8 @@
           "sha256": "3aed46c88008a52ef77f231e3a67e0993fd2d1d72683645600c228f17799f0e7"
         },
         "resource/data/wardrobe_scoring.json": {
-          "size": 2509212,
-          "sha256": "aff21922ea9b1c193cbdd42d557c70e30095bb34d09584269b7686dcf3626e23"
+          "size": 2612557,
+          "sha256": "e94a0feb329af564bce138c185a0694bcc511267f62b3a7fd24e534b4f98f6d4"
         },
         "resource/data/xinghai_rotation.json": {
           "size": 3998,
@@ -130,11 +131,11 @@
       }
     },
     "suit_thumbs": {
-      "tag": "v0.1.2",
-      "asset": "MaaNikki-data-v0.1.2-suit-thumbs.zip",
-      "size": 5534514,
-      "sha256": "a478e1b697e36ceb3807033e9a88fdc342be01d917d6f9388ed7fe331c0c80e8",
-      "count": 323,
+      "tag": "v0.1.3",
+      "asset": "MaaNikki-data-v0.1.3-suit-thumbs.zip",
+      "size": 15135506,
+      "sha256": "8b5a26b1f8e29e1fc287468e45ee353a09cf08ff666c19f67d30fee531a4f628",
+      "count": 806,
       "files": {}
     }
   }
