@@ -1,64 +1,64 @@
 {
   "schema_version": 1,
-  "version": "0.1.3",
-  "tag": "v0.1.3",
-  "published_at": "2026-11-23T15:00:22+08:00",
+  "version": "0.1.4",
+  "tag": "v0.1.4",
+  "published_at": "2026-11-27T04:09:47+08:00",
   "repository": "architect9331/MaaNikki-data",
   "stats": {
-    "wardrobe_version": "2026-11-16",
-    "blessing_version": "2026-10-15",
-    "resonance_updated_at": "2026-11-16",
-    "clothes_groups": 4016,
-    "game_items": 8649,
-    "suits": 323,
-    "suit_variants": 483,
-    "pinnacle_matches": 212,
-    "resonance_banners": 82,
-    "resonance_outfits": 324,
-    "resonance_items": 8553,
-    "blessing_sets": 40,
-    "crafting_sketches": 844,
-    "item_sources": 3895,
-    "suit_thumbs": 806
+    "wardrobe_version": "2026-11-27",
+    "blessing_version": "2026-11-27",
+    "resonance_updated_at": "2026-11-27",
+    "clothes_groups": 4579,
+    "game_items": 9743,
+    "suits": 357,
+    "suit_variants": 535,
+    "pinnacle_matches": 256,
+    "resonance_banners": 84,
+    "resonance_outfits": 359,
+    "resonance_items": 9675,
+    "blessing_sets": 43,
+    "crafting_sketches": 1005,
+    "item_sources": 4352,
+    "suit_thumbs": 892
   },
   "bundles": {
     "catalog": {
-      "tag": "v0.1.3",
-      "asset": "MaaNikki-data-v0.1.3-catalog.zip",
-      "size": 1273631,
-      "sha256": "c6a8088bd0ede4f13102b147c25f1689b3e5fc7c4e7d23d80177721e3c1fbf44",
+      "tag": "v0.1.4",
+      "asset": "MaaNikki-data-v0.1.4-catalog.zip",
+      "size": 1374638,
+      "sha256": "6083f1d4d3f6186b459063b1fd8c85839898e432908cf0304e255d11963ed142",
       "files": {
         "resource/data/blessing_catalog.json": {
-          "size": 11329,
-          "sha256": "a4da0a64958837f92a618f8d8a0b2281d5df6fb5e9f10cbe20b489af5a482258"
+          "size": 12693,
+          "sha256": "33b64c72bb7f5a5154846cd2b0a54e146622a6a3c2aae2e143eb767e85415bd0"
         },
         "resource/data/crafting_catalog.json": {
-          "size": 208488,
-          "sha256": "9ef5b5ed1a910d3203432936eec6f8f890bb49d92d5ffc1b9fefc9a547bf10e5"
+          "size": 252831,
+          "sha256": "fe5150445225b88657e97b171173273cbc40d74a0facdcec8bb9f3b4907150d3"
         },
         "resource/data/item_sources.json": {
-          "size": 175730,
-          "sha256": "134a32d5766487db97cef2edd780fc70f3e5fbe6c5983424974bda5576e00124"
+          "size": 192113,
+          "sha256": "519dd58ecd696f7a5b18ff48129fe6541810afda38e97600120db3f53ba7d481"
         },
         "resource/data/redeem_codes.json": {
           "size": 537,
           "sha256": "501eaf2d500f03f18a7cd35ddf0bd16cb92ed5a9bf65f4ade95f8e168488adab"
         },
         "resource/data/resonance_catalog.json": {
-          "size": 873747,
-          "sha256": "3aed46c88008a52ef77f231e3a67e0993fd2d1d72683645600c228f17799f0e7"
+          "size": 983192,
+          "sha256": "06afec2f04490925d0b3286d572cafaabfe982fc89ce4110cedca661d74b7de5"
         },
         "resource/data/wardrobe_scoring.json": {
-          "size": 2612557,
-          "sha256": "e94a0feb329af564bce138c185a0694bcc511267f62b3a7fd24e534b4f98f6d4"
+          "size": 3015045,
+          "sha256": "d7b83b1ebc6e9de23e77c1d000bc29775959cbff2b0d382c43df5317379560d3"
         },
         "resource/data/xinghai_rotation.json": {
           "size": 3998,
           "sha256": "4f5058b224959d0aa89ce51ad25ab114b3f677da2ca71ded99c9f7a1e7a0992d"
         },
         "resource/model/backpack/catalog.json": {
-          "size": 318623,
-          "sha256": "be4177ca6d77b3b258a73d21afc591f11a3806e1ed195b46c4f172ef03883a24"
+          "size": 242205,
+          "sha256": "2fcbd9bf86eb650e21fc3715a6b180f0143ac4e80e531ab0f3a73422fc920119"
         },
         "resource/model/blessing_badge.json": {
           "size": 2638,
@@ -73,12 +73,12 @@
           "sha256": "9b2d178e3404839aa8308885c6b25f64cbc4a25eb861ca00c7cd0c09eb74d03c"
         },
         "resource/model/rejuvenate/categories.json": {
-          "size": 3014,
-          "sha256": "dd6bfd56a95b89cdd6da2b0afe03b18855f078929ec2c1b67d1e7928aa3ef946"
+          "size": 3281,
+          "sha256": "49fafadbb174476cb3ff7fd9570a6fa1875b78f9865264d5284a1e551a88de86"
         },
         "resource/model/rejuvenate/icons.npz": {
-          "size": 52334,
-          "sha256": "2b864d258581c13bb7cdbf9de5de1b1a33bf945daada26aaee8d64f1eb05c328"
+          "size": 53931,
+          "sha256": "feceb0e104dafd025da44f76a8a15dc6de90020d1a5bc904400e023aec9579ac"
         },
         "resource/model/wardrobe/coverage.json": {
           "size": 4096,
@@ -93,8 +93,8 @@
           "sha256": "7e0e0c70c6a1441ba60132d306af39b67bc812f407c15a465d68752aa116beb4"
         },
         "resource/model/wardrobe/parts.json": {
-          "size": 2644,
-          "sha256": "b5e03448a955a799d791ba1a703ec830132a407aa2f8ddd67954e33674bc28a2"
+          "size": 2892,
+          "sha256": "107679c0709da338fede5f161f02da824de2c2fb9d8dbd89463c438977d19da0"
         },
         "resource/navigation/materials_catalog_v1.json": {
           "size": 1271942,
@@ -103,14 +103,14 @@
       }
     },
     "models": {
-      "tag": "v0.1.0",
-      "asset": "MaaNikki-data-v0.1.0-models.zip",
-      "size": 11642413,
-      "sha256": "ffe7394a805f674d303c1cee3942b54bcb510136f449c35324c28bcb632dbc35",
+      "tag": "v0.1.4",
+      "asset": "MaaNikki-data-v0.1.4-models.zip",
+      "size": 12709726,
+      "sha256": "3ee893e1e0c3d022e4012a9727e201f9e235956ebbc2c9bd7365f11957517bfc",
       "files": {
         "resource/model/backpack/icons.npz": {
-          "size": 6329014,
-          "sha256": "06066c1249ef8612fdf97d843a0424238f3e37de70c6d7890bea17da9510e2b4"
+          "size": 7398810,
+          "sha256": "65646209934cbae845f7eda8b2a046de591c982d99f944d94025c1bd6a032f00"
         },
         "resource/model/blessing_badge.npz": {
           "size": 87586,
@@ -131,11 +131,11 @@
       }
     },
     "suit_thumbs": {
-      "tag": "v0.1.3",
-      "asset": "MaaNikki-data-v0.1.3-suit-thumbs.zip",
-      "size": 15135506,
-      "sha256": "8b5a26b1f8e29e1fc287468e45ee353a09cf08ff666c19f67d30fee531a4f628",
-      "count": 806,
+      "tag": "v0.1.4",
+      "asset": "MaaNikki-data-v0.1.4-suit-thumbs.zip",
+      "size": 16760406,
+      "sha256": "03f80e4a60684752a971947e394722fdaa49b18f216120f47ad47585b07df710",
+      "count": 892,
       "files": {}
     }
   }
