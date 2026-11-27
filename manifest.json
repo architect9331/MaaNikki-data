@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "0.1.5",
-  "tag": "v0.1.5",
-  "published_at": "2026-11-27T08:39:57+08:00",
+  "version": "0.1.6",
+  "tag": "v0.1.6",
+  "published_at": "2026-11-27T18:45:28+08:00",
   "repository": "architect9331/MaaNikki-data",
   "stats": {
     "wardrobe_version": "2026-11-27",
@@ -23,10 +23,10 @@
   },
   "bundles": {
     "catalog": {
-      "tag": "v0.1.5",
-      "asset": "MaaNikki-data-v0.1.5-catalog.zip",
-      "size": 1374976,
-      "sha256": "e76ad661487d0734c46084a6252348adc173c9918cad911268de4319e1646af9",
+      "tag": "v0.1.6",
+      "asset": "MaaNikki-data-v0.1.6-catalog.zip",
+      "size": 1396796,
+      "sha256": "607fd969ba67d2ac156f6eac2b2eb34127114faebc51f15742a2c1f65afffad5",
       "files": {
         "resource/data/blessing_catalog.json": {
           "size": 12693,
@@ -35,6 +35,10 @@
         "resource/data/crafting_catalog.json": {
           "size": 252831,
           "sha256": "fe5150445225b88657e97b171173273cbc40d74a0facdcec8bb9f3b4907150d3"
+        },
+        "resource/data/infinite_heart_catalog.json": {
+          "size": 348006,
+          "sha256": "0c4ea6ecf2f254965b108b220a01e046d1f1c1c1709cda6054971b6503823e66"
         },
         "resource/data/item_sources.json": {
           "size": 192113,
@@ -73,8 +77,8 @@
           "sha256": "9b2d178e3404839aa8308885c6b25f64cbc4a25eb861ca00c7cd0c09eb74d03c"
         },
         "resource/model/rejuvenate/categories.json": {
-          "size": 3281,
-          "sha256": "49fafadbb174476cb3ff7fd9570a6fa1875b78f9865264d5284a1e551a88de86"
+          "size": 3131,
+          "sha256": "964791db10feb51c1f167f8c52d34644dde2c796b75f48b9ac6e3ef84c06027f"
         },
         "resource/model/rejuvenate/icons.npz": {
           "size": 53931,
@@ -93,8 +97,8 @@
           "sha256": "7e0e0c70c6a1441ba60132d306af39b67bc812f407c15a465d68752aa116beb4"
         },
         "resource/model/wardrobe/parts.json": {
-          "size": 2892,
-          "sha256": "107679c0709da338fede5f161f02da824de2c2fb9d8dbd89463c438977d19da0"
+          "size": 2740,
+          "sha256": "8bdf7f71f9d2249e71d5621fbbf3a605fdbdee7948b55a939d0d5667b4e9932d"
         },
         "resource/navigation/materials_catalog_v1.json": {
           "size": 1271942,
