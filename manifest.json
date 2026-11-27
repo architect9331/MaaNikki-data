@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "0.1.4",
-  "tag": "v0.1.4",
-  "published_at": "2026-11-27T04:09:47+08:00",
+  "version": "0.1.5",
+  "tag": "v0.1.5",
+  "published_at": "2026-11-27T08:39:57+08:00",
   "repository": "architect9331/MaaNikki-data",
   "stats": {
     "wardrobe_version": "2026-11-27",
@@ -23,10 +23,10 @@
   },
   "bundles": {
     "catalog": {
-      "tag": "v0.1.4",
-      "asset": "MaaNikki-data-v0.1.4-catalog.zip",
-      "size": 1374638,
-      "sha256": "6083f1d4d3f6186b459063b1fd8c85839898e432908cf0304e255d11963ed142",
+      "tag": "v0.1.5",
+      "asset": "MaaNikki-data-v0.1.5-catalog.zip",
+      "size": 1374976,
+      "sha256": "e76ad661487d0734c46084a6252348adc173c9918cad911268de4319e1646af9",
       "files": {
         "resource/data/blessing_catalog.json": {
           "size": 12693,
@@ -65,8 +65,8 @@
           "sha256": "47630e174279195e24f977d73f1cd327916018bdca89bb8c2c88a7a1455c0085"
         },
         "resource/model/blessing_identity.json": {
-          "size": 66639,
-          "sha256": "45a2c233d8bc9b40734890fb7f836ed266b2f803f04979741879058c4fd3e390"
+          "size": 72763,
+          "sha256": "2f8dc4b14782959126f7d50ba7eab2b3f81df13af8c3efe59d30641ea216eb79"
         },
         "resource/model/blessing_level.json": {
           "size": 448,
@@ -103,10 +103,10 @@
       }
     },
     "models": {
-      "tag": "v0.1.4",
-      "asset": "MaaNikki-data-v0.1.4-models.zip",
-      "size": 12709726,
-      "sha256": "3ee893e1e0c3d022e4012a9727e201f9e235956ebbc2c9bd7365f11957517bfc",
+      "tag": "v0.1.5",
+      "asset": "MaaNikki-data-v0.1.5-models.zip",
+      "size": 12825769,
+      "sha256": "da10737204c785c32521c663b5b4273c5194e92638dea8abcbbf2a6fa9264047",
       "files": {
         "resource/model/backpack/icons.npz": {
           "size": 7398810,
@@ -121,8 +121,8 @@
           "sha256": "08abcaa5689e43ff8527dd30dcfe8d3709f68272e519d63f952dadeabdbce049"
         },
         "resource/model/blessing_identity.onnx": {
-          "size": 5123998,
-          "sha256": "65cfc33f73b5fa056a6447f000185676f0cec3a5643f11cc412fb540aac04e4e"
+          "size": 5248633,
+          "sha256": "b4157b15f67eae6d68d951eaceec87d7f2ba558e30ceea4ecfe6326c1236eeec"
         },
         "resource/model/blessing_level.onnx": {
           "size": 451522,
